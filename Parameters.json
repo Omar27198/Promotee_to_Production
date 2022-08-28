@@ -1,0 +1,10 @@
+[
+    {
+        "ParameterKey":"PipelineID",
+        "ParameterValue":"mybucket944579667014"
+    },
+    {
+        "ParameterKey":"MyBucketName",
+        "ParameterValue":"NewBucket944579667014"
+    }
+]
